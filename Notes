@@ -1,0 +1,11 @@
+Start Composer to create app
+composer create-project laravel/lumen LumenAuthorsApi
+
+Start local server
+php -S localhost:8000 -t ./public
+
+To create a tabel using a Migration file
+php artisan make:migration createAuthorsTable --create=authors
+
+To Seed the database
+php artisan db:seed
