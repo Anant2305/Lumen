@@ -12,10 +12,10 @@ Course Details
 <br />API Gateway
 
 Each Micorservice have there own environment and ports set up with there own database (SQlite)
-
-Author - localhost:8000
-Books - localhost:8001
-ApiGateway - loclhost:8002
-
+<br />
+<br />Author - localhost:8000
+<br />Books - localhost:8001
+<br />ApiGateway - loclhost:8002
+<br />
 The Api Gateway passes data from the devices to the other Microservices to collect/update/delete the data as required.
 
