@@ -8,6 +8,7 @@ Course Details
 <br />Books
 <br />Author
 <br />
+<br />
 1 Middle Microservices
 <br />API Gateway
 
@@ -16,6 +17,7 @@ Each Micorservice have there own environment and ports set up with there own dat
 <br />Author - localhost:8000
 <br />Books - localhost:8001
 <br />ApiGateway - loclhost:8002
+<br />
 <br />
 The Api Gateway passes data from the devices to the other Microservices to collect/update/delete the data as required.
 
